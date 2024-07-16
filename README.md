@@ -1,6 +1,6 @@
 # AngularMaterialDemo
 
-- เป็นการประยุตก์ใช้ Material Datepicker Buddhist year
+- เป็นการประยุกต์ใช้ Material Datepicker Buddhist year
 - ทำไปตามความเข้าใจของเรา แต่มันสามารถใช้งานได้ตามต้องการ
 - สามารถแสดง วัน เดือน ปี เป็นแบบไทยเต็มรูปแบบ 
 - บันทึกลงใน firestor database เป็น timestamp 
